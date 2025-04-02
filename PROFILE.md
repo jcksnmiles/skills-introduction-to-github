@@ -1,1 +1,1 @@
-sample profile for the course, meep morp zeep zourse
+Welcome to my GitHub profile!
